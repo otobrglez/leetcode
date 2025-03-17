@@ -6,8 +6,9 @@ This is a collection of my [LeetCode] solutions written in Scala.
 
 ## Problems && solutions
 
-- [Two Sum](https://leetcode.com/problems/two-sum/description/) in [twosum/Solution.scala](https://github.com/otobrglez/leetcode/blob/master/src/main/scala/leetcode/twosum/Solution.scala)
-- [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) in [romantointeger/Solution.scala](https://github.com/otobrglez/leetcode/blob/master/src/main/scala/leetcode/romantointeger/Solution.scala)
+- [Two Sum](https://leetcode.com/problems/two-sum/) in [twosum/Solution.scala](src/main/scala/leetcode/twosum/Solution.scala)
+- [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) in [romantointeger/Solution.scala](src/main/scala/leetcode/romantointeger/Solution.scala)
+- [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) in [romantointeger/Solution.scala](src/main/scala/leetcode/romantointeger/Solution.scala)
 
 ## Author
 
