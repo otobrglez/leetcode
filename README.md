@@ -1,5 +1,7 @@
 # My LeetCode Solutions
 
+![Build Status](https://github.com/github/docs/actions/workflows/build-and-test.yml/badge.svg)
+
 This is a collection of my [LeetCode] solutions written in Scala.
 
 ## Problems && solutions
