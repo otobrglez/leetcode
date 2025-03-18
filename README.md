@@ -11,7 +11,8 @@ This is a collection of my [LeetCode] solutions written in Scala.
 - [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) in [addtwonumbers/Solution.scala](src/test/scala/leetcode/addtwonumbers/SolutionSuite.scala)
 - [100. Same Tree](https://leetcode.com/problems/same-tree/) in [sametree/Solution.scala](src/main/scala/leetcode/sametree/Solution.scala)
 - [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) in [atoi/Solution.scala](src/main/scala/leetcode/atoi/Solution.scala)
- 
+- [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) in [reverseinteger/Solution.scala](src/main/scala/leetcode/reverseinteger/Solution.scala)
+
 ## Author
 
 - [Oto Brglez](https://github.com/otobrglez)
