@@ -12,6 +12,6 @@ class SolutionSuite extends ScalaCheckSuite:
       whitespaceAfter  <- Gen.oneOf("", " ", "   ")
     yield n -> s"$whitespaceBefore$n$whitespaceAfter"
 
-  property("addition is commutative") {
+  property("myAtoi") {
     forAll(evenInts)((n, s) => Solution.myAtoi(s) == n)
   }

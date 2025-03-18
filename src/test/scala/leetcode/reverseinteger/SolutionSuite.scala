@@ -13,6 +13,6 @@ class SolutionSuite extends ScalaCheckSuite:
     )
   )
 
-  property("addition is commutative") {
+  property("reverse") {
     forAll(examples)((obtained, expected) => assertEquals(Solution.reverse(obtained), expected))
   }
