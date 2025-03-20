@@ -16,7 +16,7 @@ This is a collection of my [LeetCode] solutions written in Scala.
 - [112. Path Sum](https://leetcode.com/problems/path-sum/) in [pathsum/Solution.scala](src/main/scala/leetcode/pathsum/Solution.scala) 
 - [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) in [combine-two-tables/solution.sql](src/main/sql/combine-two-tables/solution.sql)
 - [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) in [second-highest-salary/solution.sql](src/main/sql/second-highest-salary/solution.sql)
-- [72. Edit Distance](https://leetcode.com/problems/edit-distance/) in [src/main/scala/leetcode/editdistance/Solution.scala](src/main/scala/leetcode/editdistance/Solution.scala)
+- [72. Edit Distance](https://leetcode.com/problems/edit-distance/) in [editdistance/Solution.scala](src/main/scala/leetcode/editdistance/Solution.scala)
 
 ## Author
 
