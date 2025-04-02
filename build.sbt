@@ -1,5 +1,7 @@
 val scala3Version = "3.6.4"
 
+ThisBuild / scalaVersion := scala3Version
+
 lazy val root = project
   .in(file("."))
   .settings(
@@ -14,3 +16,5 @@ lazy val root = project
       "org.scalatest" %% "scalatest-flatspec" % "3.2.19" % Test
     )
   )
+
+addCommandAlias("fmt", ";scalafmtAll;scalafmtSbt")

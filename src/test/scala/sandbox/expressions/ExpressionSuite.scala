@@ -18,5 +18,3 @@ class ExpressionSuite extends munit.FunSuite:
 
     assertEquals(exp1.eval, 17)
     assertEquals(exp2.eval, 10.5f)
-
-
