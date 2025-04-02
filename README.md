@@ -14,9 +14,9 @@ This is a collection of my [LeetCode] solutions written in Scala.
 - [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) in [reverseinteger/Solution.scala](src/main/scala/leetcode/reverseinteger/Solution.scala)
 - [48. Rotate Image](https://leetcode.com/problems/rotate-image/) in [rotateimage/Solution.scala](src/main/scala/leetcode/rotateimage/Solution.scala)
 - [112. Path Sum](https://leetcode.com/problems/path-sum/) in [pathsum/Solution.scala](src/main/scala/leetcode/pathsum/Solution.scala) 
-- [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) in [combine-two-tables/solution.sql](src/main/sql/combine-two-tables/solution.sql)
-- [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) in [second-highest-salary/solution.sql](src/main/sql/second-highest-salary/solution.sql)
-- [72. Edit Distance](https://leetcode.com/problems/edit-distance/) in [src/main/scala/leetcode/editdistance/Solution.scala](src/main/scala/leetcode/editdistance/Solution.scala)
+- `#sql` [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) in [combine-two-tables/solution.sql](src/main/sql/combine-two-tables/solution.sql)
+- `#sql` [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) in [second-highest-salary/solution.sql](src/main/sql/second-highest-salary/solution.sql)
+- [72. Edit Distance](https://leetcode.com/problems/edit-distance/) in [editdistance/Solution.scala](src/main/scala/leetcode/editdistance/Solution.scala)
 
 ## Author
 
