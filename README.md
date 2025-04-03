@@ -17,6 +17,7 @@ This is a collection of my [LeetCode] solutions written in Scala.
 - `#sql` [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) in [combine-two-tables/solution.sql](src/main/sql/combine-two-tables/solution.sql)
 - `#sql` [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) in [second-highest-salary/solution.sql](src/main/sql/second-highest-salary/solution.sql)
 - [72. Edit Distance](https://leetcode.com/problems/edit-distance/) in [editdistance/Solution.scala](src/main/scala/leetcode/editdistance/Solution.scala)
+- [13. Roman to Integer](https://leetcode.com/problems/integer-to-roman/) in [inttoroman/Solution.scala](src/main/scala/leetcode/inttoroman/Solution.scala)
 
 ## Author
 
